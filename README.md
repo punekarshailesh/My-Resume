@@ -1,5 +1,5 @@
 # My-Resume
 Resume 
 
-![Screenshot from 2023-11-12 02-27-40](https://github.com/punekarshailesh/My-Resume/assets/117573279/b07a4317-5ef0-4531-9e15-af4a48a7642d)
+![Screenshot from 2023-11-12 02-27-40](http://127.0.0.1:5500/index.html)
 
