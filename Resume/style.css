@@ -1,0 +1,59 @@
+
+
+*{
+    font-family: monospace;
+}
+
+
+h1{
+    font-size: 1.4cm;
+}
+.Gmail u{
+    color: black;
+}
+
+.Linkedin u{
+    color: black;
+}
+
+.Github u{
+    color: black;
+}
+
+.firstDiv h1{
+    text-align: center;
+}
+
+.Phone img{
+    height: 20px;
+    width: 20px;
+}
+
+.Gmail img{
+    height: 20px;
+    width: 20px;
+}
+
+.Linkedin img{
+    height: 20px;
+    width: 20px;
+}
+
+.Github img{
+    height: 20px;
+    width: 20px;
+}
+
+hr{
+    padding: 0;
+    border: 0.2px solid;
+}
+
+.fourthDiv pre{
+    /* font-family: none; */
+}
+
+.fifthDiv pre{
+    /* font-family: none; */
+    font-weight: bold;
+}
